@@ -1,7 +1,1 @@
-Hi this is our mini project.the truth beyond the pixels
-project is based on ai and ml
-Hi this is our mini project
-hiii
-we are using attention mechanism
-
-
+A deep learning–based system that detects deepfake images using Convolutional Neural Networks (CNN) and Attention Mechanisms to improve accuracy and reliability.
