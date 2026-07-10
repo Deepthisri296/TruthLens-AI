@@ -1,1 +1,0 @@
-# Git collaboration test
