@@ -4,3 +4,14 @@ results/
 saved_models/
 __pycache__/
 *.pyc
+
+best_model.pth
+testing_images/
+uploads/
+evaluation/results/
+
+gpt.zip
+newgpt.zip
+
+.env
+*.log
